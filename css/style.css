@@ -124,7 +124,7 @@ body{
 
 .header .cart-items-container{
     position: absolute;
-    top: 100%; right: 100%;
+    top: 100%; right: -100%;
     height: calc(100vh - 9.rem);
     width: 35rem;
     background: #fff;
